@@ -1,25 +1,22 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=110&section=header" width="100%">
 
 <pre>
-                                          ___            ___            ___        ___        ___     
-                                         /\__\          /\  \          /\__\      /\__\      /\  \    
-                                        /:/  /         /::\  \        /:/  /     /:/  /     /::\  \   
-                                       /:/__/         /:/\:\  \      /:/  /     /:/  /     /:/\:\  \  
-                                      /::\  \ ___    /::\~\:\  \    /:/  /     /:/  /     /:/  \:\  \ 
-                                     /:/\:\  /\__\  /:/\:\ \:\__\  /:/__/     /:/__/     /:/__/ \:\__\
-                                     \/__\:\/:/  /  \:\~\:\ \/__/  \:\  \     \:\  \     \:\  /:/  /
-                                         \::/  /    \:\ \:\__\    \:\  \     \:\  \     \:\/:/  / 
-                                         /:/  /      \:\ \/__/     \:\  \     \:\  \     \::/  /  
-                                        /:/  /        \:\__\        \:\__\    \:\__\    /:/  /   
-                                        \/__/          \/__/         \/__/     \/__/    \/__/    
+                                          ___           ___           ___       ___       ___     
+                                         /\__\         /\  \         /\__\     /\__\     /\  \    
+                                        /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+                                       /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+                                      /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+                                     /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+                                     \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+                                          \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+                                          /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+                                         /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+                                         \/__/         \/__/         \/__/     \/__/     \/__/    
 </pre>
 
 <div align="center">
 <h1>Olá, me chamo Guilherme Kawan 👋</h1>
-
 </div>
-
----
 
 <div align="center">
   <h2>🚀 Sobre Mim</h2>
@@ -28,8 +25,6 @@
 Estudante de **Análise e Desenvolvimento de Sistemas no SENAI**, focado em transformar conceitos e lógica em aplicações reais e eficientes. 
 
 No desenvolvimento **Front-end**, minha paixão é colocar a mão na massa: pegar o layout e trazê-lo à vida no navegador com precisão, interatividade e fluidez. No **Back-end** e em **Banco de Dados**, gosto de estruturar arquiteturas sólidas utilizando **PostgreSQL** e **SQL Server** — construindo a fundação que serve como o verdadeiro coração de grandes sistemas.
-
----
 
 <div align="center">
   <h2>🛠️ Tecnologias & Ferramentas</h2>
@@ -53,22 +48,11 @@ No desenvolvimento **Front-end**, minha paixão é colocar a mão na massa: pega
 ---
 
 <div align="center">
-  <h3>📊 Estatísticas do GitHub</h3>
-  <br/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GuilhermeKaw&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeKaw&layout=compact&theme=dark" />
-</div>
-
----
-
-<div align="center">
-  <h3>🐍 Snake Eating Contributions</h3>
-  <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeKaw/GuilhermeKaw/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuilhermeKaw/GuilhermeKaw/output/github-contribution-grid-snake.svg">
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/GuilhermeKaw/GuilhermeKaw/output/github-contribution-grid-snake.svg">
-  </picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./images/github-snake.svg" />
+  <img alt="github-snake" src="./assets/github-snake.svg" style="width: 100%;" />
+</picture>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=110&section=footer" width="100%">
